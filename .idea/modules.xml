@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-springcloud-consumer/01-springcloud-consumer.iml" filepath="$PROJECT_DIR$/01-springcloud-consumer/01-springcloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-springcloud-provider/01-springcloud-provider.iml" filepath="$PROJECT_DIR$/01-springcloud-provider/01-springcloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eurake-server/02-eurake-server.iml" filepath="$PROJECT_DIR$/02-eurake-server/02-eurake-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eurake-server2/02-eurake-server2.iml" filepath="$PROJECT_DIR$/02-eurake-server2/02-eurake-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eureka-client-consumer/02-eureka-client-consumer.iml" filepath="$PROJECT_DIR$/02-eureka-client-consumer/02-eureka-client-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eurake-cluster-server01/03-eurake-cluster-server01.iml" filepath="$PROJECT_DIR$/03-eurake-cluster-server01/03-eurake-cluster-server01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eurake-cluster-server02/03-eurake-cluster-server02.iml" filepath="$PROJECT_DIR$/03-eurake-cluster-server02/03-eurake-cluster-server02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eurake-provider/03-eurake-provider.iml" filepath="$PROJECT_DIR$/03-eurake-provider/03-eurake-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-eureka-client-consumer/03-eureka-client-consumer.iml" filepath="$PROJECT_DIR$/03-eureka-client-consumer/03-eureka-client-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-eureka-client-consumer8822/04-eureka-client-consumer.iml" filepath="$PROJECT_DIR$/04-eureka-client-consumer8822/04-eureka-client-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-eureka-client-provider8811/04-eureka-client-provider8811.iml" filepath="$PROJECT_DIR$/04-eureka-client-provider8811/04-eureka-client-provider8811.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-eureka-client-provider8812/04-eureka-client-provider8812.iml" filepath="$PROJECT_DIR$/04-eureka-client-provider8812/04-eureka-client-provider8812.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-rureka-server-ribbon/04-rureka-server-ribbon.iml" filepath="$PROJECT_DIR$/04-rureka-server-ribbon/04-rureka-server-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPlus-code-generation/MyPlus-code-generation.iml" filepath="$PROJECT_DIR$/MyPlus-code-generation/MyPlus-code-generation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-eurake-client-provider/eurake-client-test.iml" filepath="$PROJECT_DIR$/02-eurake-client-provider/eurake-client-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hhf-test.iml" filepath="$PROJECT_DIR$/hhf-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-demo/mybatis-plus-demo.iml" filepath="$PROJECT_DIR$/mybatis-plus-demo/mybatis-plus-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-to-service/web-to-service.iml" filepath="$PROJECT_DIR$/web-to-service/web-to-service.iml" />
+    </modules>
+  </component>
+</project>

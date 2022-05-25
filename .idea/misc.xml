@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web-to-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/MyPlus-code-generation/pom.xml" />
+        <option value="$PROJECT_DIR$/eurake-client-test/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-test/pom.xml" />
+        <option value="$PROJECT_DIR$/01-springcloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/01-springcloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-eureka-client-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-eurake-client-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/02-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/02-eurake-server/pom.xml" />
+        <option value="$PROJECT_DIR$/02-eurake-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/03-eurake-cluster-server01/pom.xml" />
+        <option value="$PROJECT_DIR$/03-eurake-cluster-server02/pom.xml" />
+        <option value="$PROJECT_DIR$/03-eurake-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/03-eureka-client-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/04-rureka-server-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eurake-client-provider8811/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-provider8812/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-provider8811/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-consumer8821/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-consumer8822/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-plus-demo" />
+        <module name="03-eurake-cluster-server01" />
+        <module name="03-eurake-cluster-server02" />
+        <module name="02-eurake-server" />
+        <module name="02-eureka-server" />
+        <module name="eurake-client-test" />
+        <module name="04-rureka-client-consumer" />
+        <module name="03-eureka-client-consumer" />
+        <module name="01-springcloud-provider" />
+        <module name="01-springcloud-consumer" />
+        <module name="02-eureka-client-consumer" />
+        <module name="02-eurake-client-provider" />
+        <module name="03-eurake-provider" />
+        <module name="04-rureka-server-ribbon" />
+        <module name="04-eureka-client-provider8812" />
+        <module name="04-eureka-client-consumer8822" />
+        <module name="web-to-service" />
+        <module name="04-eureka-client-provider8811" />
+        <module name="hhf-test" />
+        <module name="MyPlus-code-generation" />
+        <module name="02-eurake-server2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-springcloud-consumer" target="1.8" />
+      <module name="01-springcloud-provider" target="1.8" />
+      <module name="02-eurake-client-provider" target="1.8" />
+      <module name="02-eurake-server" target="1.8" />
+      <module name="02-eurake-server2" target="1.8" />
+      <module name="02-eureka-client-consumer" target="1.8" />
+      <module name="02-eureka-server" target="1.8" />
+      <module name="03-eurake-cluster-server01" target="1.8" />
+      <module name="03-eurake-cluster-server02" target="1.8" />
+      <module name="03-eurake-provider" target="1.8" />
+      <module name="03-eureka-client-consumer" target="1.8" />
+      <module name="04-eureka-client-consumer8822" target="1.8" />
+      <module name="04-eureka-client-provider8811" target="1.8" />
+      <module name="04-eureka-client-provider8812" target="1.8" />
+      <module name="04-rureka-client-consumer" target="1.8" />
+      <module name="04-rureka-server-ribbon" target="1.8" />
+      <module name="eurake-client-test" target="1.8" />
+      <module name="hhf-test" target="1.8" />
+      <module name="mybatis-plus-demo" target="1.8" />
+      <module name="MyPlus-code-generation" target="1.8" />
+      <module name="web-to-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-springcloud-consumer" options="-parameters" />
+      <module name="01-springcloud-provider" options="-parameters" />
+      <module name="02-eurake-client-provider" options="-parameters" />
+      <module name="02-eurake-server" options="-parameters" />
+      <module name="02-eurake-server2" options="-parameters" />
+      <module name="02-eureka-client-consumer" options="-parameters" />
+      <module name="02-eureka-server" options="-parameters" />
+      <module name="03-eurake-cluster-server01" options="-parameters" />
+      <module name="03-eurake-cluster-server02" options="-parameters" />
+      <module name="03-eurake-provider" options="-parameters" />
+      <module name="03-eureka-client-consumer" options="-parameters" />
+      <module name="04-eureka-client-consumer8822" options="-parameters" />
+      <module name="04-eureka-client-provider8811" options="-parameters" />
+      <module name="04-eureka-client-provider8812" options="-parameters" />
+      <module name="04-rureka-client-consumer" options="-parameters" />
+      <module name="04-rureka-server-ribbon" options="-parameters" />
+      <module name="MyPlus-code-generation" options="-parameters" />
+      <module name="eurake-client-test" options="-parameters" />
+      <module name="hhf-test" options="-parameters" />
+      <module name="mybatis-plus-demo" options="-parameters" />
+      <module name="web-to-service" options="-parameters" />
+    </option>
+  </component>
+</project>
